@@ -1,8 +1,8 @@
 namespace password_generator
 {
-    public partial class Form1 : Form
+    public partial class Password_Generator_Label : Form
     {
-        public Form1()
+        public Password_Generator_Label()
         {
             InitializeComponent();
         }
