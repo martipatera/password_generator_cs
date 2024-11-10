@@ -6,5 +6,10 @@ namespace password_generator
         {
             InitializeComponent();
         }
+
+        private void ExitBtn_Click(object sender, EventArgs e)
+        {
+            ExitApp.ExitAppForm(this);
+        }
     }
 }
